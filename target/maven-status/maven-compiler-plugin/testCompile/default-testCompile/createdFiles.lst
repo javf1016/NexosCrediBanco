@@ -1,2 +1,4 @@
-com\nexoscredibanco\CardControllerTest.class
+com\nexoscredibanco\Controller\CardControllerTest.class
+com\nexoscredibanco\Controller\TransactionControllerTest.class
 com\nexoscredibanco\NexosCrediBancoApplicationTests.class
+com\nexoscredibanco\Service\CardServiceTest.class

@@ -1,2 +1,4 @@
 D:\NexosCrediBanco\NexosCrediBanco\src\test\java\com\nexoscredibanco\NexosCrediBancoApplicationTests.java
-D:\NexosCrediBanco\NexosCrediBanco\src\test\java\com\nexoscredibanco\CardControllerTest.java
+D:\NexosCrediBanco\NexosCrediBanco\src\test\java\com\nexoscredibanco\Controller\TransactionControllerTest.java
+D:\NexosCrediBanco\NexosCrediBanco\src\test\java\com\nexoscredibanco\Service\CardServiceTest.java
+D:\NexosCrediBanco\NexosCrediBanco\src\test\java\com\nexoscredibanco\Controller\CardControllerTest.java

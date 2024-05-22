@@ -3,6 +3,7 @@ D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Exception\I
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Exception\CardNotActiveException.java
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Entity\Product.java
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Service\CardService.java
+D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Config\OpenApiConfig.java
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\DTO\CancelTransactionRequest.java
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Exception\CardNotFoundException.java
 D:\NexosCrediBanco\NexosCrediBanco\src\main\java\com\nexoscredibanco\Exception\CardNotValidException.java

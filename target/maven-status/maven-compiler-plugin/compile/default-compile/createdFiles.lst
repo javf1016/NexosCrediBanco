@@ -19,6 +19,7 @@ com\nexoscredibanco\Exception\TransactionNotFoundException.class
 com\nexoscredibanco\Exception\CancelTimeTransactionException.class
 com\nexoscredibanco\DTO\PurchaseRequest.class
 com\nexoscredibanco\Exception\CardNotActiveException.class
+com\nexoscredibanco\Config\OpenApiConfig.class
 com\nexoscredibanco\Entity\Card.class
 com\nexoscredibanco\Exception\InvalidProductIdException.class
 com\nexoscredibanco\Service\TransactionService.class
